@@ -11,9 +11,50 @@
       "info": {
         "title": "About Me",
         "content": [
-          "I'm Victoria Kondratska. A rookie back-end developer, who wishes to upgrade their skills on coding, conflict management and teamwork in general.",
-          "Consider myself a quick learner, eager to get new knowledge and unique experience. Have worked on various projects and consider myself moderately experienced in Python development."
-        ]
+          "<p><strong>I'm Victoria Kondratska.</strong> A rookie back-end developer, who wishes to upgrade their skills in coding, conflict management, and teamwork in general.</p> <p>Consider myself a quick learner, eager to get new knowledge and unique experience. I have worked on various projects and consider myself moderately experienced in Python development.</p>"
+        ], 
+        "techStack": [
+        { 
+          "name": "Python", 
+          "level": "Proficient", 
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" 
+        },
+        { 
+          "name": "Django", 
+          "level": "Proficient", 
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" 
+        },
+        { 
+          "name": "React", 
+          "level": "Intermediate", 
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" 
+        },
+        { 
+          "name": "Bootstrap", 
+          "level": "Good", 
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
+        },
+        { 
+          "name": "Tailwind", 
+          "level": "Intermediate", 
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
+        },
+        { 
+          "name": "MySQL", 
+          "level": "Advanced", 
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+        },
+        { 
+          "name": "Vercel", 
+          "level": "Intermediate", 
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" 
+        },
+        { 
+          "name": "Git", 
+          "level": "Good", 
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+        }
+      ]
       },
       "education": {
         "title": "Education History",
