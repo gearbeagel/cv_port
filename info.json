@@ -1,0 +1,114 @@
+{
+    "name": "Victoria Kondratska",
+    "title": "Back End Developer",
+    "sections": {
+      "home": {
+        "title": "Welcome to Vic's CV",
+        "content": [
+            "My CV and a showcase of my various development projects."
+        ]
+      },
+      "info": {
+        "title": "About Me",
+        "content": [
+          "I'm Victoria Kondratska. A rookie back-end developer, who wishes to upgrade their skills on coding, conflict management and teamwork in general.",
+          "Consider myself a quick learner, eager to get new knowledge and unique experience. Have worked on various projects and consider myself moderately experienced in Python development."
+        ]
+      },
+      "education": {
+        "title": "Education History",
+        "items": [
+          {
+            "institution": "Lviv National University Ivan Franko",
+            "location": "Lviv",
+            "duration": "September 2022 - Present",
+            "description": "Currently studying as a Software Engineer."
+          }
+        ]
+      },
+      "employment": {
+        "title": "Employment History",
+        "items": [
+          {
+            "company": "Helen Doron English",
+            "location": "Lviv",
+            "duration": "November 2022 - Present",
+            "position": "English Teacher",
+            "description": "Shown myself as an understanding, passionate and relatable role model for older students and provided fun and leisure for younger students."
+          }
+        ]
+      },
+      "projects": {
+        "title": "Projects",
+        "items": [
+          {
+            "title": "Universe Navigator",
+            "techStack": "Python (Flask), SQLAlchemy, HTML, CSS, Bootstrap",
+            "description": "This is a web application for writers to organize their characters, terminology, and other things. Was created as a coursework.",
+            "githubLink": "https://github.com/gearbeagel/universe_navigator",
+            "websiteLink": ""
+          },
+          {
+            "title": "Lit List Bot",
+            "techStack": "Python (Telebot), SQLAlchemy",
+            "description": "This project organizes literature lists for different purposes: courseworks, dissertations.",
+            "githubLink": "https://github.com/gearbeagel/LitList",
+            "websiteLink": ""
+          },
+          {
+            "title": "Airplane Learning: Polyglot Pro",
+            "techStack": "Python (Django), Azure (App Service, MSSQL, Blob Storage), HTML, CSS, Bootstrap, JS",
+            "description": "This is a language learning application, that has a wide variety of functions. Created as a project for a university subject.",
+            "githubLink": "https://github.com/gearbeagel/AirplaneLearning",
+            "websiteLink": "https://airplanelearningpolyglotpto.azurewebsites.net"
+          },
+          {
+            "title": "See Ya In A Bunch",
+            "techStack": "Python (Django, DRF), Heroku, PostGreSQL, HTML, CSS, Bootstrap, JS",
+            "description": "This web application serves as a time capsule.",
+            "githubLink": "https://github.com/gearbeagel/SYIAB",
+            "websiteLink": ""
+          },
+          {
+            "title": "FECTopedia",
+            "techStack": "React, HTML/CSS/Tailwind, Vercel",
+            "description": "This web application serves as a guide to studying in my university and department.",
+            "githubLink": "https://github.com/gearbeagel/FECTopedia",
+            "websiteLink": "https://fectopedia.vercel.app"
+          },
+          {
+            "title": "VerseVault (In Progress)",
+            "techStack": "Python (Django, DRF), React, React-Bootstrap",
+            "description": "This is a publishing site for stories. Work in progress.",
+            "githubLinks": [
+              "https://github.com/gearbeagel/VerseVaultBackend",
+              "https://github.com/gearbeagel/VerseVaultFrontend"
+            ],
+            "websiteLink": ""
+          }
+          
+        ]
+      },
+      "contact": {
+        "title": "Contact",
+        "links": [
+          {
+            "label": "GitHub",
+            "url": "https://github.com/gearbeagel",
+            "type": "github"
+          },
+          {
+            "label": "LinkedIn",
+            "url": "https://www.linkedin.com/in/victoria-kondratskaya-3a4796251/",
+            "type": "linkedin"
+          },
+          {
+            "label": "Email",
+            "url": "mailto:kondratskayavictoria@gmail.com",
+            "type": "email"
+          }
+        ]
+      }
+    }
+  }
+  
