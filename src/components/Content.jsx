@@ -3,7 +3,7 @@ import { FaEnvelope, FaLinkedin, FaGithub, FaTwitter } from 'react-icons/fa';
 
 const Content = ({ currentSection, data }) => {
   return (
-    <div className="flex-1 p-8 overflow-y-auto flex flex-col items-center align-items-center">
+    <div className="flex-1 p-8 overflow-y-auto flex flex-col bg-gray-800 items-center align-items-center">
       {Object.keys(data.sections).map((section) => (
         <section key={section} id={section} className={`mb-10 ${currentSection !== section && 'hidden'}`}>
           <h2 className="text-3xl font-semibold text-white mb-10 text-center">{data.sections[section].title}</h2>
@@ -67,6 +67,7 @@ const Content = ({ currentSection, data }) => {
             <ul className="list-none p-0">
               {data.sections.contact.links.map((link, index) => (
                 <li key={index} className="flex items-center mb-2 text-purple-400 hover:underline">
+                  {/* Icon Selection based on the link type */}
                   {link.type === 'email' && <FaEnvelope className="mr-2" />}
                   {link.type === 'linkedin' && <FaLinkedin className="mr-2" />}
                   {link.type === 'github' && <FaGithub className="mr-2" />}
