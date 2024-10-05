@@ -112,7 +112,7 @@
           },
           {
             "title": "FECTopedia",
-            "techStack": "React, HTML/CSS/Tailwind, Vercel",
+            "techStack": "React, HTML, CSS, Tailwind, Vercel",
             "description": "This web application serves as a guide to studying in my university and department.",
             "githubLink": "https://github.com/gearbeagel/FECTopedia",
             "websiteLink": "https://fectopedia.vercel.app"
